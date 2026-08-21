@@ -105,7 +105,7 @@ When I'm not coding or studying, you'll probably find me:
 
 - Reading — discovering new ideas and perspectives
 - Basketball — one of my favorite ways to recharge
-- Anime & Sci-Fi Movies — always up for a good story and a different world 🌌
+- Anime & Sci-Fi Movies — always up for a good story and a different world 
 
 ---
 
@@ -126,7 +126,7 @@ When I'm not coding or studying, you'll probably find me:
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Mohamed Eid](www.linkedin.com/in/mohammed-eid-82193a304)
+- LinkedIn: [Mohamed Eid](https://www.linkedin.com/in/mohammed-eid-82193a304)
 - Email: [eidm73354@gmail.com](mailto:eidm73354@gmail.com)
 
 ---  
