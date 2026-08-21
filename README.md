@@ -128,6 +128,7 @@ When I'm not coding or studying, you'll probably find me:
 
 - LinkedIn: [Mohamed Eid](https://www.linkedin.com/in/mohammed-eid-82193a304)
 - Email: [eidm73354@gmail.com](mailto:eidm73354@gmail.com)
+- Portfolio: [🌐 View Portfolio](https://mohamed-eid-portfolio.vercel.app/) 
 
 ---  
 
