@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mohamed Eid
+# 👋 Hi, I'm Mohamed Eid
 
 ## 🎓 MIS Student | Aspiring Data Engineer | Python Developer
 
