@@ -21,31 +21,106 @@ I’m currently building my foundation in Data Analysis to gain the practical ex
 
 ---
 
-## Tech Stack : 
-
-## Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-## Data & Development
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-## Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>---
+<h2>💻 My favorite tools and technologies</h2>
+<table align="center">
+<tr>
+<!-- Python -->
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python"><br>
+<strong>Python</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55" height="55" alt="SQL Server"><br>
+<strong>SQL Server</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"><br>
+<strong>PostgreSQL</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"><br>
+<strong>Pandas</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"><br>
+<strong>NumPy</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"><br>
+<strong>Matplotlib</strong>
+</td>
+<!-- Excel -->
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="55" height="55" alt="Excel"><br>
+<strong>Excel</strong>
+</td>
+</tr>
+<tr>
+<!-- Power BI -->
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/96/power-bi.png" width="55" height="55" alt="Power BI"><br>
+<strong>Power BI</strong>
+</td>
+<!-- Tableau -->
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/96/tableau-software.png" width="55" height="55" alt="Tableau"><br>
+<strong>Tableau</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" alt="Git"><br>
+<strong>Git</strong>
+</td>
+<!-- GitHub -->
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub"><br>
+<strong>GitHub</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"><br>
+<strong>Docker</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"><br>
+<strong>VS Code</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="55" height="55" alt="Visual Studio"><br>
+<strong>VS</strong>
+</td>
+</tr>
+<tr>
+<!-- Java -->
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java"><br>
+<strong>Java</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"><br>
+<strong>Linux</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"><br>
+<strong>C++</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab"><br>
+<strong>GitLab</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"><br>
+<strong>Jupyter</strong>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="55" height="55" alt="Hadoop"><br>
+<strong>Hadoop</strong>
+</td>
+<!-- Cmder -->
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bash" width="55" height="55" alt="Cmder"><br>
+<strong>Cmder</strong>
+</td>
+</tr>
+</table>
 
 ## Featured Projects
 
