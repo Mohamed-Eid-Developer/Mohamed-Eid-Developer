@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="./chat.svg" width="850" alt="Mohamed Eid Introduction">
+<div align="left">
+  <img src="./chat.svg" width="800" alt="Mohamed Eid Introduction">
 </div>
 
 # 👋 Hi, I'm Mohamed Eid
