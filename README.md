@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./chat.svg" width="850" alt="Mohamed Eid Introduction">
+</div>
+
 # 👋 Hi, I'm Mohamed Eid
 
 ## 🎓 MIS Student | Aspiring Data Engineer | Python Developer
