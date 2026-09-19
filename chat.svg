@@ -1,0 +1,203 @@
+<svg width="900" height="560" viewBox="0 0 900 560"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="900" height="560" rx="18" fill="#0d1117"/>
+
+  <!-- Window Header -->
+  <rect width="900" height="64" rx="18" fill="#161b22"/>
+
+  <circle cx="28" cy="32" r="7" fill="#ff5f56"/>
+  <circle cx="52" cy="32" r="7" fill="#ffbd2e"/>
+  <circle cx="76" cy="32" r="7" fill="#27c93f"/>
+
+  <text x="450" y="39"
+        text-anchor="middle"
+        fill="#c9d1d9"
+        font-family="Arial, sans-serif"
+        font-size="17"
+        font-weight="bold">
+    Mohamed Eid — About Me
+  </text>
+
+
+  <!-- Message 1 -->
+  <g opacity="0">
+    <animate
+      attributeName="opacity"
+      begin="0s"
+      dur="0.6s"
+      values="0;1"
+      fill="freeze"/>
+
+    <rect x="35" y="90"
+          width="430" height="65"
+          rx="18"
+          fill="#21262d"/>
+
+    <text x="60" y="116"
+          fill="#58a6ff"
+          font-family="Arial, sans-serif"
+          font-size="14"
+          font-weight="bold">
+      Mohamed 👋
+    </text>
+
+    <text x="60" y="140"
+          fill="#f0f6fc"
+          font-family="Arial, sans-serif"
+          font-size="16">
+      Hey! I'm Mohamed Eid.
+    </text>
+  </g>
+
+
+  <!-- Message 2 -->
+  <g opacity="0">
+    <animate
+      attributeName="opacity"
+      begin="2.2s"
+      dur="0.6s"
+      values="0;1"
+      fill="freeze"/>
+
+    <rect x="405" y="175"
+          width="460" height="82"
+          rx="18"
+          fill="#238636"/>
+
+    <text x="430" y="202"
+          fill="#ffffff"
+          font-family="Arial, sans-serif"
+          font-size="14"
+          font-weight="bold">
+      Mohamed 🎓
+    </text>
+
+    <text x="430" y="226"
+          fill="#ffffff"
+          font-family="Arial, sans-serif"
+          font-size="16">
+      I'm a 4th-year MIS student
+    </text>
+
+    <text x="430" y="248"
+          fill="#ffffff"
+          font-family="Arial, sans-serif"
+          font-size="16">
+      at Alexandria University.
+    </text>
+  </g>
+
+
+  <!-- Message 3 -->
+  <g opacity="0">
+    <animate
+      attributeName="opacity"
+      begin="4.7s"
+      dur="0.6s"
+      values="0;1"
+      fill="freeze"/>
+
+    <rect x="35" y="277"
+          width="500" height="82"
+          rx="18"
+          fill="#21262d"/>
+
+    <text x="60" y="304"
+          fill="#58a6ff"
+          font-family="Arial, sans-serif"
+          font-size="14"
+          font-weight="bold">
+      Mohamed 📊
+    </text>
+
+    <text x="60" y="328"
+          fill="#f0f6fc"
+          font-family="Arial, sans-serif"
+          font-size="16">
+      Currently learning Data Analysis
+    </text>
+
+    <text x="60" y="350"
+          fill="#f0f6fc"
+          font-family="Arial, sans-serif"
+          font-size="16">
+      as my foundation for Data Engineering.
+    </text>
+  </g>
+
+
+  <!-- Message 4 -->
+  <g opacity="0">
+    <animate
+      attributeName="opacity"
+      begin="7.2s"
+      dur="0.6s"
+      values="0;1"
+      fill="freeze"/>
+
+    <rect x="345" y="380"
+          width="520" height="82"
+          rx="18"
+          fill="#238636"/>
+
+    <text x="370" y="407"
+          fill="#ffffff"
+          font-family="Arial, sans-serif"
+          font-size="14"
+          font-weight="bold">
+      Mohamed 💻
+    </text>
+
+    <text x="370" y="431"
+          fill="#ffffff"
+          font-family="Arial, sans-serif"
+          font-size="16">
+      Python • SQL • Java • Power BI
+    </text>
+
+    <text x="370" y="453"
+          fill="#ffffff"
+          font-family="Arial, sans-serif"
+          font-size="16">
+      Git • Docker • C++
+    </text>
+  </g>
+
+
+  <!-- Message 5 -->
+  <g opacity="0">
+    <animate
+      attributeName="opacity"
+      begin="9.7s"
+      dur="0.6s"
+      values="0;1"
+      fill="freeze"/>
+
+    <rect x="35" y="480"
+          width="560" height="50"
+          rx="18"
+          fill="#21262d"/>
+
+    <text x="60" y="512"
+          fill="#f0f6fc"
+          font-family="Arial, sans-serif"
+          font-size="16">
+      🚀 Turning data and ideas into practical projects.
+    </text>
+  </g>
+  <!-- Restart the conversation -->
+  <rect x="0" y="0" width="900" height="560"
+        rx="18"
+        fill="transparent">
+
+    <animate
+      attributeName="opacity"
+      begin="13s"
+      dur="0.01s"
+      values="1;0"
+      repeatCount="indefinite"/>
+  </rect>
+
+</svg>
