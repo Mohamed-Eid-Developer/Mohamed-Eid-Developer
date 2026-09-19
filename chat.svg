@@ -1,203 +1,310 @@
-<svg width="900" height="560" viewBox="0 0 900 560"
-     xmlns="http://www.w3.org/2000/svg">
+<svg
+  width="900"
+  height="470"
+  viewBox="0 0 900 470"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
-  <!-- Background -->
-  <rect width="900" height="560" rx="18" fill="#0d1117"/>
+  <!--
+    Mohamed Eid - Animated GitHub Introduction
+    Inspired by a chat-style GitHub profile layout
+  -->
 
-  <!-- Window Header -->
-  <rect width="900" height="64" rx="18" fill="#161b22"/>
+  <style>
+    .title {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      fill: #f0f6fc;
+    }
 
-  <circle cx="28" cy="32" r="7" fill="#ff5f56"/>
-  <circle cx="52" cy="32" r="7" fill="#ffbd2e"/>
-  <circle cx="76" cy="32" r="7" fill="#27c93f"/>
+    .message {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 17px;
+      font-weight: 600;
+      fill: #f0f6fc;
+    }
 
-  <text x="450" y="39"
-        text-anchor="middle"
-        fill="#c9d1d9"
-        font-family="Arial, sans-serif"
-        font-size="17"
-        font-weight="bold">
-    Mohamed Eid — About Me
+    .message-small {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      fill: #f0f6fc;
+    }
+
+    .link {
+      fill: #58a6ff;
+    }
+
+    .bubble {
+      fill: #c7ccd1;
+    }
+
+    .bubble-dark {
+      fill: #b8bec4;
+    }
+
+    .show-1 {
+      animation: showMessage 0.6s ease-out 0.8s forwards;
+    }
+
+    .show-2 {
+      animation: showMessage 0.6s ease-out 2.2s forwards;
+    }
+
+    .show-3 {
+      animation: showMessage 0.6s ease-out 3.8s forwards;
+    }
+
+    .show-4 {
+      animation: showMessage 0.6s ease-out 5.4s forwards;
+    }
+
+    .show-5 {
+      animation: showMessage 0.6s ease-out 7.0s forwards;
+    }
+
+    .show-6 {
+      animation: showMessage 0.6s ease-out 8.6s forwards;
+    }
+
+    .show-7 {
+      animation: showMessage 0.6s ease-out 10.2s forwards;
+    }
+
+    @keyframes showMessage {
+      from {
+        opacity: 0;
+        transform: translateY(12px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+
+
+  <!-- ========================= -->
+  <!-- TITLE -->
+  <!-- ========================= -->
+
+  <text
+    x="28"
+    y="35"
+    class="title"
+  >
+    Hi there 👋
   </text>
 
 
-  <!-- Message 1 -->
-  <g opacity="0">
-    <animate
-      attributeName="opacity"
-      begin="0s"
-      dur="0.6s"
-      values="0;1"
-      fill="freeze"/>
+  <!-- ========================= -->
+  <!-- MESSAGE 1 -->
+  <!-- ========================= -->
 
-    <rect x="35" y="90"
-          width="430" height="65"
-          rx="18"
-          fill="#21262d"/>
+  <g
+    class="show-1"
+    opacity="0"
+  >
 
-    <text x="60" y="116"
-          fill="#58a6ff"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          font-weight="bold">
-      Mohamed 👋
+    <rect
+      x="38"
+      y="60"
+      width="230"
+      height="55"
+      rx="18"
+      class="bubble"
+    />
+
+    <text
+      x="58"
+      y="94"
+      class="message"
+    >
+      Hi, I'm Mohamed 👋
     </text>
 
-    <text x="60" y="140"
-          fill="#f0f6fc"
-          font-family="Arial, sans-serif"
-          font-size="16">
-      Hey! I'm Mohamed Eid.
-    </text>
   </g>
 
 
-  <!-- Message 2 -->
-  <g opacity="0">
-    <animate
-      attributeName="opacity"
-      begin="2.2s"
-      dur="0.6s"
-      values="0;1"
-      fill="freeze"/>
+  <!-- ========================= -->
+  <!-- MESSAGE 2 -->
+  <!-- ========================= -->
 
-    <rect x="405" y="175"
-          width="460" height="82"
-          rx="18"
-          fill="#238636"/>
+  <g
+    class="show-2"
+    opacity="0"
+  >
 
-    <text x="430" y="202"
-          fill="#ffffff"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          font-weight="bold">
-      Mohamed 🎓
+    <rect
+      x="38"
+      y="127"
+      width="555"
+      height="65"
+      rx="18"
+      class="bubble-dark"
+    />
+
+    <text
+      x="58"
+      y="155"
+      class="message"
+    >
+      4th-year MIS student at Alexandria University
     </text>
 
-    <text x="430" y="226"
-          fill="#ffffff"
-          font-family="Arial, sans-serif"
-          font-size="16">
-      I'm a 4th-year MIS student
+    <text
+      x="58"
+      y="178"
+      class="message-small"
+    >
+      🎓 Faculty of Business
     </text>
 
-    <text x="430" y="248"
-          fill="#ffffff"
-          font-family="Arial, sans-serif"
-          font-size="16">
-      at Alexandria University.
-    </text>
   </g>
 
 
-  <!-- Message 3 -->
-  <g opacity="0">
-    <animate
-      attributeName="opacity"
-      begin="4.7s"
-      dur="0.6s"
-      values="0;1"
-      fill="freeze"/>
+  <!-- ========================= -->
+  <!-- MESSAGE 3 -->
+  <!-- ========================= -->
 
-    <rect x="35" y="277"
-          width="500" height="82"
-          rx="18"
-          fill="#21262d"/>
+  <g
+    class="show-3"
+    opacity="0"
+  >
 
-    <text x="60" y="304"
-          fill="#58a6ff"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          font-weight="bold">
-      Mohamed 📊
+    <rect
+      x="38"
+      y="204"
+      width="610"
+      height="65"
+      rx="18"
+      class="bubble"
+    />
+
+    <text
+      x="58"
+      y="232"
+      class="message"
+    >
+      Currently learning Data Analysis 📊
     </text>
 
-    <text x="60" y="328"
-          fill="#f0f6fc"
-          font-family="Arial, sans-serif"
-          font-size="16">
-      Currently learning Data Analysis
+    <text
+      x="58"
+      y="255"
+      class="message-small"
+    >
+      Building my foundation toward Data Engineering 🚀
     </text>
 
-    <text x="60" y="350"
-          fill="#f0f6fc"
-          font-family="Arial, sans-serif"
-          font-size="16">
-      as my foundation for Data Engineering.
-    </text>
   </g>
 
 
-  <!-- Message 4 -->
-  <g opacity="0">
-    <animate
-      attributeName="opacity"
-      begin="7.2s"
-      dur="0.6s"
-      values="0;1"
-      fill="freeze"/>
+  <!-- ========================= -->
+  <!-- MESSAGE 4 -->
+  <!-- ========================= -->
 
-    <rect x="345" y="380"
-          width="520" height="82"
-          rx="18"
-          fill="#238636"/>
+  <g
+    class="show-4"
+    opacity="0"
+  >
 
-    <text x="370" y="407"
-          fill="#ffffff"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          font-weight="bold">
-      Mohamed 💻
+    <rect
+      x="38"
+      y="281"
+      width="490"
+      height="55"
+      rx="18"
+      class="bubble-dark"
+    />
+
+    <text
+      x="58"
+      y="315"
+      class="message"
+    >
+      Experienced with Python and Java 💻
     </text>
 
-    <text x="370" y="431"
-          fill="#ffffff"
-          font-family="Arial, sans-serif"
-          font-size="16">
-      Python • SQL • Java • Power BI
-    </text>
-
-    <text x="370" y="453"
-          fill="#ffffff"
-          font-family="Arial, sans-serif"
-          font-size="16">
-      Git • Docker • C++
-    </text>
   </g>
 
 
-  <!-- Message 5 -->
-  <g opacity="0">
-    <animate
-      attributeName="opacity"
-      begin="9.7s"
-      dur="0.6s"
-      values="0;1"
-      fill="freeze"/>
+  <!-- ========================= -->
+  <!-- MESSAGE 5 -->
+  <!-- ========================= -->
 
-    <rect x="35" y="480"
-          width="560" height="50"
-          rx="18"
-          fill="#21262d"/>
+  <g
+    class="show-5"
+    opacity="0"
+  >
 
-    <text x="60" y="512"
-          fill="#f0f6fc"
-          font-family="Arial, sans-serif"
-          font-size="16">
-      🚀 Turning data and ideas into practical projects.
+    <rect
+      x="38"
+      y="348"
+      width="470"
+      height="55"
+      rx="18"
+      class="bubble"
+    />
+
+    <text
+      x="58"
+      y="382"
+      class="message"
+    >
+      Working with SQL Server 🗄️
     </text>
-  </g>
-  <!-- Restart the conversation -->
-  <rect x="0" y="0" width="900" height="560"
-        rx="18"
-        fill="transparent">
 
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- MESSAGE 6 -->
+  <!-- ========================= -->
+
+  <g
+    class="show-6"
+    opacity="0"
+  >
+       <rect
+      x="38"
+      y="415"
+      width="555"
+      height="55"
+      rx="18"
+      class="bubble-dark"
+    />
+
+    <text
+      x="58"
+      y="449"
+      class="message"
+    >
+      Git &amp; GitHub • Docker • Power BI 🚀
+    </text>
+
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- LOOP -->
+  <!-- ========================= -->
+
+  <rect
+    x="0"
+    y="0"
+    width="1"
+    height="1"
+    opacity="0"
+  >
     <animate
       attributeName="opacity"
-      begin="13s"
-      dur="0.01s"
-      values="1;0"
-      repeatCount="indefinite"/>
+      values="0;1;0"
+      dur="13s"
+      repeatCount="indefinite"
+    />
   </rect>
 
 </svg>
