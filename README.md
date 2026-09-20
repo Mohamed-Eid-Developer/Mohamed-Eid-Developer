@@ -1,14 +1,8 @@
-<!-- <div align="left">
+# Hi there 👋🏻
+
+<div align="left">
   <img src="./chat.svg" width="800" alt="Mohamed Eid Introduction">
-</div> -->
-
-# 👋 Hi, I'm Mohamed Eid
-
-## 🎓 MIS Student | Aspiring Data Engineer | Python Developer
-
-I'm a 4th-year Management Information Systems (MIS) student at Alexandria University with a growing passion for Data Analysis and Data Engineering.
-
-I’m currently building my foundation in Data Analysis to gain the practical experience and technical skills needed to move toward my long-term goal of becoming a Data Engineer. 
+</div> 
 
 ---
 
