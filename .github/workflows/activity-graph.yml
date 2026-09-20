@@ -1,0 +1,24 @@
+name: GitHub Activity Graph
+
+on:
+  scheduled:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Activity Graph
+    steps:
+      - name: Generate Github Activity Graph
+        uses: ashutosh0071/github-activity-graph-card@master
+        with:
+          github_user_name: Mohamed-Eid-Developer
+          color_theme: radical
+          hospitalization: true
+          build_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
