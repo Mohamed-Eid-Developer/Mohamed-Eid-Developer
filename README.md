@@ -24,6 +24,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Eid-Developer&layout=compact&theme=radical&hide_border=true)
 
+![Streak Stats](https://github-readme-stats.vercel.app/api/streak-stats/?username=Mohamed-Eid-Developer&theme=radical&hide_border=true)
+
 ---
 
 <h2>💻 My favorite tools and technologies</h2>
