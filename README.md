@@ -20,13 +20,9 @@
 ---
 ## 📊 Github Stats and Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Eid-Developer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Eid-Developer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Eid-Developer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Eid-Developer&layout=compact&theme=radical&hide_border=true)
 
 ---
 
