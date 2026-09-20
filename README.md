@@ -18,11 +18,6 @@
 -  I enjoy turning data and ideas into practical projects
 
 ---
-## 📊 Github Stats and Activity
-
-
-
----
 
 <h2>💻 My favorite tools and technologies</h2>
 <table align="center">
@@ -151,6 +146,44 @@ Tech: "Python"
 A data analysis project based on the Titanic dataset, focusing on exploring the data and extracting insights through statistical analysis and Pandas.
 
 Tech: "Python" "Pandas" "Statistics"
+
+---
+
+## 📊 Github Stats and Activity
+
+<p align="center">
+  <a href="https://github.com/Mohamed-Eid-Developer">
+    <picture>
+      <img
+        height="150px"
+        src="https://beautiful-github-homepage.vercel.app/api?username=Mohamed-Eid-Developer&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true"
+        alt="Mohamed Eid's GitHub Stats"
+      />
+    </picture>
+  </a>
+
+  <a href="https://github.com/Mohamed-Eid-Developer?tab=stars">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-Eid-Developer&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      width="48%"
+      alt="Mohamed Eid's GitHub Streak"
+    />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Mohamed-Eid-Developer">
+    <picture>
+      <img
+        height="150px"
+        src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Mohamed-Eid-Developer&hide_title=false&layout=compact&theme=gotham"
+        alt="Mohamed Eid's Top Languages"
+      />
+    </picture>
+  </a>
+</p>
 
 ---
 
