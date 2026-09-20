@@ -18,6 +18,17 @@
 -  I enjoy turning data and ideas into practical projects
 
 ---
+## 📊 Github Stats and Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Eid-Developer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Eid-Developer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 <h2>💻 My favorite tools and technologies</h2>
 <table align="center">
